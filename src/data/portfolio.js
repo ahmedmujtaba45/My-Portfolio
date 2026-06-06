@@ -7,7 +7,7 @@ export const personal = {
   email: "ahmedmujtaba4554@gmail.com",
   linkedin: "https://www.linkedin.com/in/ahmed-mujtaba-222954369/",
   github: "https://github.com/AhmedMujtaba45",
-  resume: "/Ahmed_Mujtaba_Resume.pdf",
+  resume: "/AHMED MUJTABA.pdf",
   location: "Islamabad, Pakistan",
 };
 
