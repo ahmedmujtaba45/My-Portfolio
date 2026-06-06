@@ -152,7 +152,7 @@ export default function Hero() {
                   </p>
                   <p className="font-body text-xs text-cream/20 text-center px-8">
                     Replace this with your professional photo in{"/public/photo.jpg"}
-                    <code className="text-accent/60">/public/photo.jpg</code>
+                    <code className="text-accent/60"></code>
                   </p>
                 </div>
 
