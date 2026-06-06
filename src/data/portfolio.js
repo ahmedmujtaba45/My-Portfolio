@@ -9,12 +9,11 @@ export const personal = {
   github: "https://github.com/AhmedMujtaba45",
   resume: "/Ahmed_Mujtaba_Resume.pdf",
   location: "Islamabad, Pakistan",
-  regNo: "BSE231092",
 };
 
 export const about = {
   background:
-    "I'm a final-year Software Engineering student at Capital University of Science and Technology (CUST), Islamabad. My journey in tech began with a deep curiosity about how systems work — from low-level hardware to high-level cloud architectures. I've channeled that curiosity into hands-on projects spanning AI, IoT, and full-stack web development.",
+    "I'm a final-year Software Engineering student at Capital University of Science and Technology (CUST), Islamabad. My journey in tech began with a deep curiosity about how systems work — from low-level hardware to high-level cloud architectures. I've channeled that curiosity into hands-on projects spanning AI, and full-stack web development.",
   education: [
     {
       degree: "BS Software Engineering",
@@ -26,12 +25,12 @@ export const about = {
   goals:
     "I aim to work at the intersection of AI and cloud computing, building intelligent, scalable systems that make a real-world impact. My goal is to join a forward-thinking organization where I can contribute to cutting-edge products while continuing to grow as an engineer.",
   interests: [
+    "Full-Stack Web Development",
+    "UI/UX Design",
     "Artificial Intelligence & ML",
     "Cloud Computing (AWS & Azure)",
-    "Full-Stack Web Development",
-    "IoT & Embedded Systems",
     "Open Source",
-    "Football",
+    "Cricket & Football",
   ],
 };
 
@@ -67,7 +66,6 @@ export const projects = [
     description:
       "An IoT-based smart bike lock system that uses RFID authentication, GPS tracking, and a mobile app for remote locking/unlocking. Sends real-time alerts on tampering and tracks the bike's location via Google Maps API.",
     tech: ["Arduino", "Raspberry Pi", "RFID", "GPS", "Python", "React Native", "MQTT"],
-    github: "https://github.com/ahmedmujtaba/smart-bike-lock",
     demo: null,
     color: "from-teal-900/30 to-emerald-900/20",
     accent: "#4DB89E",
@@ -115,14 +113,14 @@ export const achievements = [
     description:
       "Led technical workshops, organized IEEE events, and mentored junior members in the CUST IEEE Student Chapter.",
     icon: "⚡",
-    year: "2024",
+    year: "2025",
   },
   {
     title: "High Achiever Award",
     description:
       "Recognized for academic excellence and outstanding performance in software engineering coursework.",
     icon: "★",
-    year: "2024",
+    year: "2025",
   },
   {
     title: "Football Runner-Up",
