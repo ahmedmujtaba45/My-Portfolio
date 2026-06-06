@@ -42,7 +42,7 @@ export const projects = [
     description:
       "Final Year Project — An intelligent system that automates employee performance evaluation using NLP and machine learning. The tool analyzes qualitative feedback, quantitative KPIs, and behavioral patterns to generate unbiased, data-driven performance reports.",
     tech: ["Python", "TensorFlow", "NLP", "React", "FastAPI", "PostgreSQL", "AWS"],
-    github: "https://github.com/ahmedmujtaba/ai-performance-eval",
+    github: "https://github.com/ahmedmujtaba45/ai-performance-eval",
     demo: null,
     color: "from-amber-900/30 to-orange-900/20",
     accent: "#C8A96E",
@@ -54,7 +54,7 @@ export const projects = [
     description:
       "A full-featured social media web application with real-time chat, post feeds, friend requests, media uploads, and notifications. Built with a RESTful API backend and a responsive React frontend.",
     tech: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "Cloudinary"],
-    github: "https://github.com/ahmedmujtaba/social-media-app",
+    github: "https://github.com/ahmedmujtaba45/social-media-app",
     demo: "https://social-demo.example.com",
     color: "from-blue-900/30 to-indigo-900/20",
     accent: "#7B9EE0",
