@@ -29,13 +29,13 @@ export default function Contact() {
     {
       icon: Link2,
       label: "LinkedIn",
-      value: "linkedin.com/in/ahmedmujtaba",
+      value: "linkedin.com/in/ahmed-mujtaba-222954369",
       href: personal.linkedin,
     },
     {
       icon: GitFork,
       label: "GitHub",
-      value: "github.com/ahmedmujtaba",
+      value: "github.com/ahmedmujtaba45",
       href: personal.github,
     },
     {
