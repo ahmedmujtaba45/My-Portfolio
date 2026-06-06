@@ -99,7 +99,7 @@ export default function About() {
               {[
                 { value: "4+", label: "Projects" },
                 { value: "6+", label: "Technologies" },
-                { value: "IEEE", label: "VP Member" },
+                { value: "IEEE", label: "Vice President" },
               ].map(({ value, label }) => (
                 <div
                   key={label}
