@@ -116,9 +116,9 @@ export const achievements = [
     year: "2025",
   },
   {
-    title: "High Achiever Award",
+    title: "Dean Honors",
     description:
-      "Recognized for academic excellence and outstanding performance in software engineering coursework.",
+      "Recognized for academic excellence and outstanding performance in software engineering 4th semester.",
     icon: "★",
     year: "2025",
   },
