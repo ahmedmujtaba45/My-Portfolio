@@ -23,7 +23,7 @@ export const about = {
     },
   ],
   goals:
-    "I aim to work at the intersection of AI and cloud computing, building intelligent, scalable systems that make a real-world impact. My goal is to join a forward-thinking organization where I can contribute to cutting-edge products while continuing to grow as an engineer.",
+    "I aim to work as Front-End Developer and UI/UX Designer building intelligent, scalable systems that make a real-world impact. My goal is to join a forward-thinking organization where I can contribute to cutting-edge products while continuing to grow as an engineer.",
   interests: [
     "Full-Stack Web Development",
     "UI/UX Design",
@@ -49,13 +49,13 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Social Media Platform",
+    title: "Student Attendance and Result Portal",
     badge: "Web App",
     description:
-      "A full-featured social media web application with real-time chat, post feeds, friend requests, media uploads, and notifications. Built with a RESTful API backend and a responsive React frontend.",
-    tech: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "Cloudinary"],
-    github: "https://github.com/ahmedmujtaba45/social-media-app",
-    demo: "https://social-demo.example.com",
+      "A student LMS web application for students and teachers to edit/view results and attendance. Built with a RESTful API backend and a responsive React frontend.",
+    tech: ["HTML", "CSS", "React", "Node.js", "PHP", "MySQL"],
+    github: "https://github.com/ahmedmujtaba45/Student-Attendance-Result-Portal",
+    demo: "https://staging.d2aa54w6x4b0kp.amplifyapp.com/index.html",
     color: "from-blue-900/30 to-indigo-900/20",
     accent: "#7B9EE0",
   },
@@ -65,7 +65,7 @@ export const projects = [
     badge: "IoT",
     description:
       "An IoT-based smart bike lock system that uses RFID authentication, GPS tracking, and a mobile app for remote locking/unlocking. Sends real-time alerts on tampering and tracks the bike's location via Google Maps API.",
-    tech: ["Arduino", "Raspberry Pi", "RFID", "GPS", "Python", "React Native", "MQTT"],
+    tech: ["Arduino", "RFID", "GPS", "Python", "React Native"],
     demo: null,
     color: "from-teal-900/30 to-emerald-900/20",
     accent: "#4DB89E",
@@ -93,7 +93,7 @@ export const skills = [
   {
     category: "Web Development",
     icon: "◻",
-    items: ["React", "HTML5", "CSS3", "Node.js", "MySQL", "MongoDB", "REST APIs"],
+    items: ["React", "HTML5", "CSS3", "Node.js", "MySQL", "REST APIs"],
   },
   {
     category: "Cloud & DevOps",
@@ -103,7 +103,7 @@ export const skills = [
   {
     category: "Tools & Design",
     icon: "✦",
-    items: ["Figma", "VS Code", "Postman", "JIRA", "Linux", "BPMN"],
+    items: ["Figma", "Canva", "VS Code", "Postman", "JIRA", "BPMN"],
   },
 ];
 
@@ -125,7 +125,7 @@ export const achievements = [
   {
     title: "Football Runner-Up",
     description:
-      "Led the team as striker in the inter-department football championship, finishing as runners-up.",
+      "Led the team as goalkeeper in the inter-department football championship, finishing as runners-up.",
     icon: "⚽",
     year: "2023",
   },
