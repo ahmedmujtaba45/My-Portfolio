@@ -140,7 +140,7 @@ export default function Projects() {
         <RevealSection delay={400}>
           <div className="text-center mt-12">
             <a
-              href="https://github.com/ahmedmujtaba"
+              href="https://github.com/ahmedmujtaba45"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 border border-white/20 text-cream/60 px-8 py-4 font-body text-sm font-medium hover:border-accent/60 hover:text-accent transition-all duration-300"
