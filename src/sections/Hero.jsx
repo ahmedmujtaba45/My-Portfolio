@@ -143,18 +143,11 @@ export default function Hero() {
               {/* Photo container */}
               <div className="relative w-72 h-80 bg-surface overflow-hidden">
                 {/* Replace with your actual photo */}
-                <div className="w-full h-full flex flex-col items-center justify-center gap-3 bg-gradient-to-br from-surface to-card">
-                  <div className="w-20 h-20 rounded-full bg-accent/20 border border-accent/40 flex items-center justify-center">
-                    <span className="font-display text-2xl text-accent font-bold">AM</span>
-                  </div>
-                  <p className="font-mono text-xs text-cream/30 tracking-widest">
-                    your-photo.jpg
-                  </p>
-                  <p className="font-body text-xs text-cream/20 text-center px-8">
-                    Replace this with your professional photo in{"/public/photo.jpg"}
-                    <code className="text-accent/60"></code>
-                  </p>
-                </div>
+                <img
+  src="/photo.jpg"
+  alt="Ahmed Mujtaba"
+  className="w-full h-full object-cover"
+/>
 
                 {/* Corner accents */}
                 <div className="absolute top-3 left-3 w-6 h-6 border-t border-l border-accent/60" />
