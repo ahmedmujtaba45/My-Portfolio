@@ -144,7 +144,7 @@ export default function Hero() {
               <div className="relative w-72 h-80 bg-surface overflow-hidden">
                 {/* Replace with your actual photo */}
                 <img
-  src="/photo.jpg"
+  src="/photo.JPG"
   alt="Ahmed Mujtaba"
   className="w-full h-full object-cover"
 />
