@@ -25,7 +25,7 @@ export const about = {
   goals:
     "I aim to work as Front-End Developer and UI/UX Designer building intelligent, scalable systems that make a real-world impact. My goal is to join a forward-thinking organization where I can contribute to cutting-edge products while continuing to grow as an engineer.",
   interests: [
-    "Full-Stack Web Development",
+    "Frontend Web Development",
     "UI/UX Design",
     "Artificial Intelligence & ML",
     "Cloud Computing (AWS & Azure)",
