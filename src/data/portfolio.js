@@ -42,13 +42,25 @@ export const projects = [
     description:
       "Final Year Project — An intelligent system that automates employee performance evaluation using NLP and machine learning. The tool analyzes qualitative feedback, quantitative KPIs, and behavioral patterns to generate unbiased, data-driven performance reports.",
     tech: ["HTML", "CSS", "Javascript", "C#", "Python", "TensorFlow", "NLP", "React", "FastAPI", "MySQL", "AWS"],
-    github: "https://github.com/ahmedmujtaba45/ai-performance-eval",
+    github: "https://github.com/ahmedmujtaba45/Performance-Evaluation-Tool",
     demo: null,
     color: "from-amber-900/30 to-orange-900/20",
     accent: "#C8A96E",
   },
-  {
+    {
     id: 2,
+    title: "Tax Graph AI",
+    badge: "Hacathon 2026",
+    description:
+      "Designed & Developed the frontend for Hackathon CUST 2026 competition's project knowledge graph-based tax intelligence system "Tax Graph AI" hat analyzes citizen data from multiple sources to detect income-reporting anomalies. Built responsive dashboards, risk assessment interfaces, and audit trail visualizations for tax compliance monitoring.",
+    tech: ["HTML", "CSS", "Javascript", "ReactJS", "Typescript"],
+    github: "https://github.com/ahmedmujtaba45/TaxGraphAI",
+    demo: null,
+    color: "from-purple-900/30 to-violet-900/20",
+    accent: "#A78BFA",
+  },
+  {
+    id: 3,
     title: "Student Attendance and Result Portal",
     badge: "Web App",
     description:
@@ -60,7 +72,7 @@ export const projects = [
     accent: "#7B9EE0",
   },
   {
-    id: 3,
+    id: 4,
     title: "Smart Bike Lock",
     badge: "IoT",
     description:
@@ -69,18 +81,6 @@ export const projects = [
     demo: null,
     color: "from-teal-900/30 to-emerald-900/20",
     accent: "#4DB89E",
-  },
-  {
-    id: 4,
-    title: "Tax Graph AI",
-    badge: "Hacathon 2026",
-    description:
-      "Designed & Developed the frontend for Hackathon CUST 2026 competition's project knowledge graph-based tax intelligence system "Tax Graph AI" hat analyzes citizen data from multiple sources to detect income-reporting anomalies. Built responsive dashboards, risk assessment interfaces, and audit trail visualizations for tax compliance monitoring.",
-    tech: ["HTML", "CSS", "Javascript", "ReactJS", "Typescript"],
-    github: "https://github.com/ahmedmujtaba45/TaxGraphAI",
-    demo: null,
-    color: "from-purple-900/30 to-violet-900/20",
-    accent: "#A78BFA",
   },
 ];
 
