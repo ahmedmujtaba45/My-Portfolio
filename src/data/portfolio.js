@@ -52,7 +52,7 @@ export const projects = [
     title: "Tax Graph AI",
     badge: "Hackathon 2026",
     description:
-      "Designed & Developed the frontend for Hackathon CUST 2026 competition's project, knowledge graph-based tax intelligence system "Tax Graph AI" that analyzes citizen data from multiple sources to detect income-reporting anomalies. Built responsive dashboards, risk assessment interfaces, and audit trail visualizations for tax compliance monitoring.",
+      "Designed & Developed the frontend for Hackathon CUST 2026 competition's project, knowledge graph-based tax intelligence system 'Tax Graph AI' that analyzes citizen data from multiple sources to detect income-reporting anomalies. Built responsive dashboards, risk assessment interfaces, and audit trail visualizations for tax compliance monitoring.",
     tech: ["HTML", "CSS", "Javascript", "ReactJS", "Typescript"],
     github: "https://github.com/ahmedmujtaba45/TaxGraphAI",
     demo: null,
