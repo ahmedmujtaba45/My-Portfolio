@@ -55,12 +55,13 @@ export default function Skills() {
             </h3>
             <div className="grid sm:grid-cols-2 gap-5">
               {[
+                { skill: "HTML/CSS", pct: 95 },
                 { skill: "React / JavaScript", pct: 85 },
-                { skill: "Python", pct: 80 },
+                { skill: "Python", pct: 50 },
                 { skill: "Java", pct: 78 },
                 { skill: "AWS / Azure", pct: 65 },
-                { skill: "C# / PHP", pct: 70 },
-                { skill: "Node.js", pct: 75 },
+                { skill: "C# / PHP", pct: 75 },
+                { skill: "MySQL", pct: 80 },
               ].map(({ skill, pct }) => (
                 <div key={skill}>
                   <div className="flex justify-between items-center mb-2">
