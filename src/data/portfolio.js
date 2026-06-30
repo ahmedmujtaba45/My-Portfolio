@@ -72,12 +72,12 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Business Process Engineering — Global Fresh Wholesaler",
-    badge: "Academic",
+    title: "Tax Graph AI",
+    badge: "Hacathon 2026",
     description:
-      "Process discovery and qualitative analysis for Global Fresh Wholesaler Pvt. Ltd. Designed AS-IS BPMN diagrams for the Order-to-Cash process, performed MUDA & MURI waste analyses, and compiled an issue register with improvement recommendations.",
-    tech: ["BPMN", "Process Mining", "Lean Analysis", "Node.js", "docx Library"],
-    github: null,
+      "Designed & Developed the frontend for Hackathon CUST 2026 competition's project knowledge graph-based tax intelligence system "Tax Graph AI" hat analyzes citizen data from multiple sources to detect income-reporting anomalies. Built responsive dashboards, risk assessment interfaces, and audit trail visualizations for tax compliance monitoring.",
+    tech: ["HTML", "CSS", "Javascript", "ReactJS", "Typescript"],
+    github: "https://github.com/ahmedmujtaba45/TaxGraphAI",
     demo: null,
     color: "from-purple-900/30 to-violet-900/20",
     accent: "#A78BFA",
