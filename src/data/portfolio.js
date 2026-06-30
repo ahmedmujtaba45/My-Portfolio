@@ -41,7 +41,7 @@ export const projects = [
     badge: "FYP",
     description:
       "Final Year Project — An intelligent system that automates employee performance evaluation using NLP and machine learning. The tool analyzes qualitative feedback, quantitative KPIs, and behavioral patterns to generate unbiased, data-driven performance reports.",
-    tech: ["HTML", "CSS", "Javascript", "C#", "Python", "TensorFlow", "NLP", "React", "FastAPI", "MySQL", "AWS"],
+    tech: ["HTML", "CSS", "Javascript", "C#", "Python", "TensorFlow", "NLP", "React", "Flask", "MySQL", "AWS", "Github"],
     github: "https://github.com/ahmedmujtaba45/Performance-Evaluation-Tool",
     demo: null,
     color: "from-amber-900/30 to-orange-900/20",
@@ -53,7 +53,7 @@ export const projects = [
     badge: "Hackathon 2026",
     description:
       "Designed & Developed the frontend for Hackathon CUST 2026 competition's project, knowledge graph-based tax intelligence system 'Tax Graph AI' that analyzes citizen data from multiple sources to detect income-reporting anomalies. Built responsive dashboards, risk assessment interfaces, and audit trail visualizations for tax compliance monitoring.",
-    tech: ["HTML", "CSS", "Javascript", "ReactJS", "Typescript"],
+    tech: ["HTML", "CSS", "Javascript", "React", "Typescript"],
     github: "https://github.com/ahmedmujtaba45/TaxGraphAI",
     demo: null,
     color: "from-purple-900/30 to-violet-900/20",
@@ -88,12 +88,12 @@ export const skills = [
   {
     category: "Languages",
     icon: "⟨/⟩",
-    items: ["Java", "Python", "JavaScript", "C#", "PHP", "C/C++"],
+    items: ["HTML", "CSS", "JavaScript", "Java", "Python", "C#", "PHP", "C/C++"],
   },
   {
     category: "Web Development",
     icon: "◻",
-    items: ["React", "HTML5", "CSS3", "Node.js", "MySQL", "REST APIs"],
+    items: ["React", "HTML5", "CSS3", ".NET", "MySQL", "REST APIs"],
   },
   {
     category: "Cloud & DevOps",
@@ -103,7 +103,7 @@ export const skills = [
   {
     category: "Tools & Design",
     icon: "✦",
-    items: ["Figma", "Canva", "VS Code", "Postman", "JIRA", "BPMN"],
+    items: ["Figma", "Canva", "VS Code", "Postman", "JIRA"],
   },
 ];
 
