@@ -41,7 +41,7 @@ export const projects = [
     badge: "FYP",
     description:
       "Final Year Project — An intelligent system that automates employee performance evaluation using NLP and machine learning. The tool analyzes qualitative feedback, quantitative KPIs, and behavioral patterns to generate unbiased, data-driven performance reports.",
-    tech: ["HTML", "CSS", "Javascript", "C#", "Python", "TensorFlow", "NLP", "React", "Flask", "MySQL", "AWS", "Github"],
+    tech: ["ReactJS", "Typescript", "Tailwind CSS", "C#", "Python", "NLP", "Flask", "MySQL", "AWS", "Github"],
     github: "https://github.com/ahmedmujtaba45/Performance-Evaluation-Tool",
     demo: null,
     color: "from-amber-900/30 to-orange-900/20",
