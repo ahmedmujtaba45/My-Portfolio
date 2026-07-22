@@ -53,7 +53,7 @@ export const projects = [
     badge: "Hackathon 2026",
     description:
       "Designed & Developed the frontend for Hackathon CUST 2026 competition's project, knowledge graph-based tax intelligence system 'Tax Graph AI' that analyzes citizen data from multiple sources to detect income-reporting anomalies. Built responsive dashboards, risk assessment interfaces, and audit trail visualizations for tax compliance monitoring.",
-    tech: ["HTML", "CSS", "Javascript", "React", "Typescript"],
+    tech: [ "ReactJS", "Typescript"],
     github: "https://github.com/ahmedmujtaba45/TaxGraphAI",
     demo: null,
     color: "from-purple-900/30 to-violet-900/20",
@@ -65,7 +65,7 @@ export const projects = [
     badge: "Web App",
     description:
       "A student LMS web application for students and teachers to edit/view results and attendance. Built with a RESTful API backend and a responsive React frontend.",
-    tech: ["HTML", "CSS", "React", "PHP", "MySQL"],
+    tech: ["HTML", "CSS", "Javascript", "PHP", "MySQL"],
     github: "https://github.com/ahmedmujtaba45/Student-Attendance-Result-Portal",
     demo: "https://staging.d2aa54w6x4b0kp.amplifyapp.com/index.html",
     color: "from-blue-900/30 to-indigo-900/20",
