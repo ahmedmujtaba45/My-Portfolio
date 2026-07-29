@@ -69,7 +69,7 @@ export const projects = [
     github: "https://github.com/ahmedmujtaba45/Student-Attendance-Result-Portal",
     demo: "https://ahmedmujtaba45.github.io/Student-Attendance-Result-Portal/index.html",
     color: "from-blue-900/30 to-indigo-900/20",
-    accent: "#7B9EE0";
+    accent: "#7B9EE0",
   },
   {
     id: 4,
