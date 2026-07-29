@@ -70,7 +70,7 @@ export const projects = [
     demo: "https://staging.d2aa54w6x4b0kp.amplifyapp.com/index.html",
     color: "from-blue-900/30 to-indigo-900/20",
     accent: "#7B9EE0",
-    demo: https://ahmedmujtaba45.github.io/Student-Attendance-Result-Portal/index.html;
+    demo: "https://ahmedmujtaba45.github.io/Student-Attendance-Result-Portal/index.html";
   },
   {
     id: 4,
