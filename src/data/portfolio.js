@@ -42,7 +42,7 @@ export const projects = [
     description:
       "Final Year Project — An intelligent system that automates employee performance evaluation using NLP and machine learning. The tool analyzes qualitative feedback, quantitative KPIs, and behavioral patterns to generate unbiased, data-driven performance reports.",
     tech: ["ReactJS", "Typescript", "Tailwind CSS", "C#", "Python", "NLP", "Flask", "MySQL", "AWS", "Github"],
-    github: "https://github.com/ahmedmujtaba45/Performance-Evaluation-Tool",
+    github: "https://github.com/ahmedmujtaba45/FYP",
     demo: null,
     color: "from-amber-900/30 to-orange-900/20",
     accent: "#C8A96E",
@@ -67,10 +67,9 @@ export const projects = [
       "A student LMS web application for students and teachers to edit/view results and attendance. Built with a RESTful API backend and a responsive React frontend.",
     tech: ["HTML", "CSS", "Javascript", "PHP", "MySQL"],
     github: "https://github.com/ahmedmujtaba45/Student-Attendance-Result-Portal",
-    demo: "https://staging.d2aa54w6x4b0kp.amplifyapp.com/index.html",
+    demo: "https://ahmedmujtaba45.github.io/Student-Attendance-Result-Portal/index.html",
     color: "from-blue-900/30 to-indigo-900/20",
-    accent: "#7B9EE0",
-    demo: "https://ahmedmujtaba45.github.io/Student-Attendance-Result-Portal/index.html";
+    accent: "#7B9EE0";
   },
   {
     id: 4,
