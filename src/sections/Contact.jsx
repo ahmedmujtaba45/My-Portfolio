@@ -52,7 +52,7 @@ export default function Contact() {
         {/* Header */}
         <RevealSection>
           <div className="flex items-center gap-4 mb-4">
-            <span className="font-mono text-accent text-sm tracking-[0.2em] uppercase">06</span>
+            <span className="font-mono text-accent text-sm tracking-[0.2em] uppercase">08</span>
             <div className="h-px w-12 bg-accent/60" />
           </div>
           <h2 className="font-display text-5xl lg:text-6xl font-bold text-cream mb-3">

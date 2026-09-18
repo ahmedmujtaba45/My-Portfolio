@@ -2,7 +2,9 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Hero from "./sections/Hero";
 import About from "./sections/About";
+import Experience from "./sections/Experience";
 import Projects from "./sections/Projects";
+import Courses from "./sections/Courses";
 import Skills from "./sections/Skills";
 import Achievements from "./sections/Achievements";
 import Contact from "./sections/Contact";
@@ -21,7 +23,9 @@ export default function App() {
         <div className="relative">
           <div className="hidden xl:block absolute left-8 top-0 bottom-0 w-px bg-gradient-to-b from-transparent via-white/5 to-transparent pointer-events-none" />
           <About />
+          <Experience />
           <Projects />
+          <Courses />
           <Skills />
           <Achievements />
           <Contact />

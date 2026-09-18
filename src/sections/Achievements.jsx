@@ -8,7 +8,7 @@ export default function Achievements() {
         {/* Header */}
         <RevealSection>
           <div className="flex items-center gap-4 mb-4">
-            <span className="font-mono text-accent text-sm tracking-[0.2em] uppercase">05</span>
+            <span className="font-mono text-accent text-sm tracking-[0.2em] uppercase">07</span>
             <div className="h-px w-12 bg-accent/60" />
           </div>
           <h2 className="font-display text-5xl lg:text-6xl font-bold text-cream mb-3">

@@ -1,7 +1,16 @@
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 
-const links = ["Home", "About", "Projects", "Skills", "Achievements", "Contact"];
+const links = [
+  { label: "Home", id: "home" },
+  { label: "About", id: "about" },
+  { label: "Experience", id: "experience" },
+  { label: "Projects", id: "projects" },
+  { label: "Courses", id: "additional-courses" },
+  { label: "Skills", id: "skills" },
+  { label: "Achievements", id: "achievements" },
+  { label: "Contact", id: "contact" },
+];
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -14,7 +23,7 @@ export default function Navbar() {
   }, []);
 
   const scrollTo = (id) => {
-    const el = document.getElementById(id.toLowerCase());
+    const el = document.getElementById(id);
     if (el) el.scrollIntoView({ behavior: "smooth" });
     setOpen(false);
   };
@@ -39,12 +48,12 @@ export default function Navbar() {
         {/* Desktop Links */}
         <ul className="hidden md:flex items-center gap-8">
           {links.map((link) => (
-            <li key={link}>
+            <li key={link.id}>
               <button
-                onClick={() => scrollTo(link)}
+                onClick={() => scrollTo(link.id)}
                 className="nav-link text-sm font-body font-medium text-cream/70 hover:text-cream transition-colors tracking-wide uppercase"
               >
-                {link}
+                {link.label}
               </button>
             </li>
           ))}
@@ -65,12 +74,12 @@ export default function Navbar() {
         <div className="md:hidden bg-ink/95 backdrop-blur-md border-b border-white/5">
           <ul className="flex flex-col py-4">
             {links.map((link) => (
-              <li key={link}>
+              <li key={link.id}>
                 <button
-                  onClick={() => scrollTo(link)}
+                  onClick={() => scrollTo(link.id)}
                   className="w-full text-left px-6 py-3 text-sm font-medium text-cream/70 hover:text-accent hover:bg-white/5 transition-all tracking-wide uppercase"
                 >
-                  {link}
+                  {link.label}
                 </button>
               </li>
             ))}
