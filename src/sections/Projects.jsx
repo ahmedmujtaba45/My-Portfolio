@@ -23,7 +23,7 @@ export default function Projects() {
             <div className="h-px w-12 bg-accent/60" />
           </div>
           <h2 className="font-display text-5xl lg:text-6xl font-bold text-cream mb-3">
-            Selected <span className="italic text-cream/40">Work</span>
+            Projects
           </h2>
           <div className="section-line" />
         </RevealSection>

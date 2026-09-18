@@ -37,14 +37,14 @@ export const about = {
 export const experience = [
   {
     role: "Frontend Web Developer Intern",
-    company: "Link",
+    company: "App In Snap, Islamabad",
     period: "July – September 2026",
     description:
       "Developed and enhanced web interfaces using React, while working with C# and MySQL for backend integration and data management. Collaborated with the development team to implement features, fix issues, and improve overall application functionality.",
   },
   {
     role: "Technology Job Simulation",
-    company: "Deloitte",
+    company: "Deloitte, Austrailia",
     period: "June 2026",
     description:
       "Engineered a Python telemetry unification pipeline for Daikibo Industrials' IIoT infrastructure and authored a full-stack real-time manufacturing dashboard proposal covering system architecture, UI/UX wireframes, effort estimation, and delivery timeline.",
