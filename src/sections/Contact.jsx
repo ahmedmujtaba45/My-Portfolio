@@ -105,8 +105,8 @@ export default function Contact() {
           <RevealSection delay={200}>
             <form onSubmit={handleSubmit} className="space-y-5">
               {[
-                { name: "name", label: "Full Name", type: "text", placeholder: "John Doe" },
-                { name: "email", label: "Email Address", type: "email", placeholder: "john@example.com" },
+                { name: "name", label: "Full Name", type: "text", placeholder: "Your Name" },
+                { name: "email", label: "Email Address", type: "email", placeholder: "your.email@example.com" },
               ].map((field) => (
                 <div key={field.name}>
                   <label className="font-mono text-xs text-cream/40 tracking-widest uppercase block mb-2">
