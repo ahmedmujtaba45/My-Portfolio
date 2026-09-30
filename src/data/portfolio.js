@@ -69,8 +69,8 @@ export const projects = [
     description:
       "Final Year Project — An intelligent system that automates employee performance evaluation using NLP and machine learning. The tool analyzes qualitative feedback, quantitative KPIs, and behavioral patterns to generate unbiased, data-driven performance reports.",
     tech: ["ReactJS", "Typescript", "Tailwind CSS", "C#", "Python", "NLP", "Flask", "MySQL", "AWS", "Github"],
-    github: "https://github.com/ahmedmujtaba45/FYP",
-    demo: null,
+    github: null,
+    demo: "https://ai-pet-mock-demo.vercel.app/",
     color: "from-amber-900/30 to-orange-900/20",
     accent: "#C8A96E",
   },
@@ -81,8 +81,8 @@ export const projects = [
     description:
       "Designed & Developed the frontend for Hackathon CUST 2026 competition's project, knowledge graph-based tax intelligence system 'Tax Graph AI' that analyzes citizen data from multiple sources to detect income-reporting anomalies. Built responsive dashboards, risk assessment interfaces, and audit trail visualizations for tax compliance monitoring.",
     tech: [ "ReactJS", "Typescript"],
-    github: "https://github.com/ahmedmujtaba45/TaxGraphAI",
-    demo: null,
+    github: null,
+    demo: "https://tax-graph-ai.vercel.app/",
     color: "from-purple-900/30 to-violet-900/20",
     accent: "#A78BFA",
   },
