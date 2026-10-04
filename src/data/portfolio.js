@@ -136,13 +136,6 @@ export const skills = [
 
 export const achievements = [
   {
-    title: "Vice President — IEEE CUST Student Chapter",
-    description:
-      "Led technical workshops, organized IEEE events, and mentored junior members in the CUST IEEE Student Chapter.",
-    icon: "⚡",
-    year: "2025",
-  },
-  {
     title: "Dean Honors",
     description:
       "Recognized for academic excellence and outstanding performance in software engineering 4th semester.",
@@ -150,10 +143,24 @@ export const achievements = [
     year: "2025",
   },
   {
+    title: "Vice President — IEEE CUST Student Branch 2025-2026",
+    description:
+      "Led technical workshops, organized IEEE events, and mentored junior members in the CUST IEEE Student Chapter.",
+    icon: "⚡",
+    year: "2025",
+  },
+  {
+    title: "Cricket Champions",
+    description:
+      "Led the team as allrounder in the sports-week cricket championship, finishing as champions.",
+    icon: "🏏",
+    year: "2025",
+  },
+{
     title: "Football Runner-Up",
     description:
       "Led the team as goalkeeper in the inter-department football championship, finishing as runners-up.",
     icon: "⚽",
-    year: "2023",
+    year: "2024",
   },
 ];
